@@ -26,3 +26,21 @@ Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a s
     1. Leia os números [a] e [b];
     2. Calcule o [quoficiente] = [a] divdido [b];
     3. Mostre [quoficiente].
+
+
+Q4 -
+
+    1. Leia os números a e b
+    2. calcule a diferença de a menos b
+    3. mostre o resultado da subtração
+
+Q5 -
+    1. Leia os numeros [a] e [b]
+    2. Calcule o produto de [a] X [b]
+    3. mostre [quoficiente]
+Q6 -
+    1. Leia os números [a] e [b] 
+    2. Calcule o [quoficiente] =[a]/[b]
+    3. Mostre o [quoficiente]
+
+    
