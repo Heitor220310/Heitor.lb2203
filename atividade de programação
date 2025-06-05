@@ -1,0 +1,36 @@
+Q1 - Escreva um algoritimo que calcule a soma de dois números inteiros
+    1. Ler ou pegar esses números 
+    2. Calcule a soma desses dois números
+
+    Refinando o ´código´:
+   1. Leia os números (a) e (b) 
+   2. Calcule a soma de (a) + (b) 
+   3. Mostre o resultado dessa soma
+
+Q2 - Escreva um algoritimo que calcule a média aritméticas de três números inteiros
+    1. Ler ou pegar esses números 
+    2. Calcule a média aritmética desses três números
+
+    Refinando o ´código´:
+   1. Leia os números (a)  (b) e (c)
+   2. Calcule a média aritmética de (a) + (b) + (c) / 3
+   3. Mostre o resultado dessa média aritmética
+
+Q1 - Escreva um algoritimo que calcule a área de um retângulo
+    1. Ler ou pegar esses números 
+    2. Calcule o produto desses números
+
+    Refinando o ´código´:
+   1. Leia os números (a) e (b) 
+   2. Calcule o produto de (a) x (b) 
+   3. Mostre o resultado da área desse retângulo
+
+Q1 - Escreva um algoritimo que calcule a área de um triângulo
+    1. Ler ou pegar esses números 
+    2. Calcule o produto desses números e depois divida por dois
+
+    Refinando o ´código´:
+   1. Leia os números (a) e (b) 
+   2. Calcule o produto de (a) x (b) / 2
+   3. Mostre o resultado da área desse triângulo
+
