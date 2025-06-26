@@ -28,6 +28,130 @@ Q1 - Escreva um algoritimo que calcule a área de um retângulo
 Q1 - Escreva um algoritimo que calcule a área de um triângulo
     1. Ler ou pegar esses números 
     2. Calcule o produto desses números e depois divida por dois
+    3. Mostre o resultado desse calculo
+
+ Refinando o ´código´:
+   1. Leia os números (a) e (b) 
+   2. Calcule o produto de (a) x (b) e depois divida por 2
+   3. Mostre o resultado da área desse triângulo
+
+Q1 - Escreva um algoritimo que calcule a conversão de celsius para fahreiheit
+    1. Ler ou pegar esses números 
+    2. Calcule os números através da formula F = (9 * C + 160) / 5.
+    3. Mostre o resultado desse calculo
+
+Refinando o ´código´:
+   1. Leia o número (a) 
+   2. Calcule o produto de (a) x (9) depois some por 160 e divida por 5
+   3. Mostre o resultado da área desse calculo
+
+Q1 - Escreva um algoritimo que calcule a área de um triângulo
+    1. Ler ou pegar esses números 
+    2. Calcule o produto desses números e depois divida por dois
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o volume de uma caixa retangular
+    1. Ler ou pegar esses números 
+    2. Calcule o volume de uma caixa retangular
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o valor total de uma compra
+    1. Ler ou pegar esses números 
+    2. Calcule o valor total de uma compra
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o tempo total de uma viagem
+    1. Ler ou pegar esses números 
+    2. Calcule o volume de uma caixa retangular
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule a conversão de dias em horas
+    1. Ler ou pegar esses números 
+    2. Calcule a conversão de dias em horas
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule a conversão de minutos em segundos
+    1. Ler ou pegar esses números 
+    2. Calcule a conversão de minutos em segundos
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule um novo salário
+    1. Ler ou pegar esses números 
+    2. Calcule um novo salário
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o juros simples
+    1. Ler ou pegar esses números 
+    2. Calcule o juros simples
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o troco de uma compra
+    1. Ler ou pegar esses números 
+    2. Calcule a conversão de dias em horas
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o IMC
+    1. Ler ou pegar esses números 
+    2. Calcule o IMC
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o perímetro de um circulo
+    1. Ler ou pegar esses números 
+    2. Calcule o perímetro de um circulo
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule a diferença de idade de duas pessoas
+    1. Ler ou pegar esses números 
+    2. Calcule a diferença de idade
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule a média de consumo de combustivél
+    1. Ler ou pegar esses números 
+    2. Calcule a média de conversão de combustivél
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule o valor de uma conta dividida
+    1. Ler ou pegar esses números 
+    2. Calcule o valor de uma conta dividia
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule a conversão de dias em horas
+    1. Ler ou pegar esses números 
+    2. Calcule a conversão de dias em horas
+    3. Mostre o resultado desse calculo
+
+Q1 - Escreva um algoritimo que calcule a média de um valor gasto
+    1. Ler ou pegar esses números 
+    2. Calcule a média de um valor gasto
+    3. Mostre o resultado desse calculo
+
+
+
+
+
+
+
+
+
+
+    1. Ler ou pegar esses números 
+    2. Calcule a conversão de dias em horas
+    3. Mostre o resultado desse calculo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     Refinando o ´código´:
    1. Leia os números (a) e (b) 
